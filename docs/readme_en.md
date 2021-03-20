@@ -12,3 +12,6 @@ If there are bug bugs then email me at misakorzik528@gmail.com
 ---
 
 The mod will still be updated, the higher the version, the newer the mod.
+
+<a href="https://github.com/mishakorzik/mod_onMishakorzhik-Download/releases/tag/1.1.2
+">Download</a>
