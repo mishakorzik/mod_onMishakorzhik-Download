@@ -12,3 +12,6 @@
  ---
 
  Мод ще буде оновлюватися чим вище версія тим новіше мод.
+
+<a href="https://github.com/mishakorzik/mod_onMishakorzhik-Download/releases/tag/1.1.2
+">Download</a>
